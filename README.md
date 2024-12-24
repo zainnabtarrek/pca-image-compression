@@ -20,6 +20,8 @@ This project is divided into three parts, each implemented in a separate Jupyter
     *   Loading the Olivetti faces dataset (or any group of similar images).
     *   Calculating eigenfaces (principal components of the face dataset).
     *   Compressing and reconstructing individual face images using the eigenfaces.
+    ![image](https://github.com/user-attachments/assets/4ef2503b-76b1-45bc-b0cf-ae4648c2dead)
+   
     *   Visualizing the top eigenfaces.
 *   **`pca_bonus2.ipynb` (PCA for Color Image Compression):** This notebook adapts the PCA implementation to compress color images by applying PCA to each color channel (R, G, B) separately. It includes:
     *   Loading and splitting a color image into its R, G, and B channels.
